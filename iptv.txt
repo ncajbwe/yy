@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="CANAIS: FILMES/SERIES",AXN HD
+
+
